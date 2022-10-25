@@ -1,10 +1,10 @@
-#include "main.h"
-#include <stdio.h>
+#include "main.h
 
 /**
  * reset_to_98 - update the value of n to 98
- * @n: input
- * Return: n
+ * @n: int to check
+ * Owned by Promise 
+ * Return: 0 is success
  */
 
 void reset_to_98(int *n)
